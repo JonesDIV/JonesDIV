@@ -27,7 +27,7 @@ My goal is to combine my proficiency in data analysis tools with my growing know
 
 Feel free to reach out to me for collaboration, networking, or any queries:
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **Email**: [your.email@example.com](mailto:daisy@amery.co.uk)
 - **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/your-profile)
 
 ---
