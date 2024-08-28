@@ -14,9 +14,10 @@ Hello! I'm a Data Analyst based in London with a passion for transforming data i
 
 ## Qualifications
 
+![Certs](https://github.com/user-attachments/assets/af3a91dc-deb2-405b-adcd-2f9c81c91356)
 
 
-### Expanding My Skills
+## Expanding My Skills
 
 I am continuously seeking to enhance my capabilities and am currently focusing on expanding my skill set to include:
 
