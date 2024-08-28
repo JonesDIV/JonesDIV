@@ -12,6 +12,10 @@ Hello! I'm a Data Analyst based in London with a passion for transforming data i
 - **Alteryx**: Skilled in data preparation, blending, and advanced analytics, enabling efficient data workflows.
 - **Power BI**: Experienced in developing dynamic and intuitive reports that help stakeholders understand complex data sets.
 
+## Qualifications
+
+
+
 ### Expanding My Skills
 
 I am continuously seeking to enhance my capabilities and am currently focusing on expanding my skill set to include:
